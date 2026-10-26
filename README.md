@@ -1,6 +1,8 @@
-### A GUI for the `papirus-folders` script
+### A GUI for the papirus-folders script
 
-This program is designed for visually changing the color of folders within the installed [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
+This program is designed for visually changing the color of folders within the installed [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).  
+  
+Three themes are being processed at once: `Papirus`, `Papirus-Dark`, and `Papirus-Light`.
 
 **Dependencies:** gtk2 (or `libgtk2.0-0` on Debian)
 
